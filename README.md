@@ -91,6 +91,20 @@ Explored the distribution of sales across different deal sizes.
 * Medium and Large deals contributed substantially to overall sales.
 
 ---
+## Interactive Dashboard
+
+In addition to the Exploratory Data Analysis, I also developed and deployed an interactive Sales Analytics Dashboard.
+
+Live Demo:
+https://salesdatasamplecsvdashboard-lmoxjga52dd8otkh6htvtr.streamlit.app/
+
+Dashboard Features:
+- KPI Cards
+- Monthly Sales Trends
+- Product Performance Analysis
+- Country-wise Sales Analysis
+- Deal Size Distribution
+- Customer Insights
 
 ## Conclusion
 
